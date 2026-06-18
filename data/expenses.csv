@@ -1,0 +1,1501 @@
+Date,Category,Amount,Payment Mode,Description
+2025-05-23,Shopping,2786,Debit Card,Travel Expense
+2025-03-15,Bills,978,Credit Card,Utility Bill
+2025-04-25,Food,734,Credit Card,Purchase
+2025-01-19,Food,692,Debit Card,Travel Expense
+2025-03-21,Rent,10956,Debit Card,Daily Expense
+2025-05-31,Travel,775,Debit Card,Daily Expense
+2025-03-13,Shopping,2739,Cash,Monthly Payment
+2025-02-21,Food,567,UPI,Travel Expense
+2025-04-14,Rent,11114,Credit Card,Monthly Payment
+2025-03-30,Bills,1312,Credit Card,Monthly Payment
+2025-01-24,Travel,1409,Credit Card,Utility Bill
+2025-03-08,Shopping,2228,UPI,Monthly Payment
+2025-01-05,Food,571,UPI,Daily Expense
+2025-01-17,Shopping,1726,UPI,Purchase
+2025-06-19,Travel,2388,Debit Card,Daily Expense
+2025-02-01,Travel,633,UPI,Purchase
+2025-06-17,Food,664,UPI,Purchase
+2025-04-12,Shopping,4125,Cash,Utility Bill
+2025-02-20,Rent,16209,UPI,Daily Expense
+2025-03-10,Bills,3881,Credit Card,Monthly Payment
+2025-01-16,Food,635,Cash,Travel Expense
+2025-03-18,Bills,2303,Credit Card,Monthly Payment
+2025-05-02,Travel,1425,Credit Card,Utility Bill
+2025-06-09,Travel,2996,Cash,Monthly Payment
+2025-03-22,Bills,2120,Debit Card,Purchase
+2025-01-20,Bills,1376,UPI,Utility Bill
+2025-06-10,Shopping,3980,Debit Card,Purchase
+2025-01-12,Rent,18555,Debit Card,Travel Expense
+2025-05-23,Rent,8728,Debit Card,Monthly Payment
+2025-02-17,Shopping,917,UPI,Travel Expense
+2025-06-03,Food,672,UPI,Purchase
+2025-04-19,Rent,8578,Debit Card,Purchase
+2025-05-15,Rent,18481,Debit Card,Daily Expense
+2025-04-17,Food,248,Debit Card,Daily Expense
+2025-03-31,Bills,955,Debit Card,Daily Expense
+2025-04-20,Travel,2789,Cash,Daily Expense
+2025-03-01,Travel,2522,Cash,Utility Bill
+2025-01-27,Food,414,Credit Card,Monthly Payment
+2025-02-05,Rent,12741,Cash,Purchase
+2025-01-18,Shopping,4859,Debit Card,Purchase
+2025-01-15,Shopping,3705,UPI,Monthly Payment
+2025-04-18,Travel,1757,UPI,Daily Expense
+2025-06-10,Travel,1551,Credit Card,Travel Expense
+2025-05-03,Food,706,Cash,Purchase
+2025-06-13,Travel,2517,UPI,Utility Bill
+2025-04-13,Bills,2663,UPI,Travel Expense
+2025-06-07,Shopping,3855,UPI,Daily Expense
+2025-04-21,Travel,1558,UPI,Utility Bill
+2025-02-05,Food,147,UPI,Purchase
+2025-03-14,Rent,14765,UPI,Travel Expense
+2025-06-29,Bills,1865,Cash,Monthly Payment
+2025-01-23,Shopping,1162,UPI,Daily Expense
+2025-03-20,Travel,676,UPI,Daily Expense
+2025-04-04,Food,490,Credit Card,Purchase
+2025-01-09,Food,763,Cash,Monthly Payment
+2025-04-30,Rent,10724,Credit Card,Monthly Payment
+2025-06-13,Travel,768,UPI,Daily Expense
+2025-04-17,Food,596,UPI,Daily Expense
+2025-05-26,Shopping,504,Debit Card,Utility Bill
+2025-01-20,Rent,17821,Cash,Monthly Payment
+2025-06-21,Rent,15076,Debit Card,Utility Bill
+2025-06-01,Bills,1061,Credit Card,Daily Expense
+2025-03-19,Rent,14697,Debit Card,Purchase
+2025-01-01,Rent,12665,Credit Card,Travel Expense
+2025-05-01,Travel,1279,Debit Card,Purchase
+2025-04-09,Rent,11244,UPI,Purchase
+2025-06-23,Travel,2998,Credit Card,Travel Expense
+2025-02-15,Rent,17777,UPI,Monthly Payment
+2025-04-26,Food,380,Credit Card,Purchase
+2025-05-05,Rent,17192,Cash,Monthly Payment
+2025-04-06,Shopping,2625,Debit Card,Daily Expense
+2025-03-08,Food,270,Debit Card,Purchase
+2025-05-20,Shopping,4661,Credit Card,Daily Expense
+2025-06-06,Rent,17803,Credit Card,Daily Expense
+2025-01-10,Bills,3764,Cash,Travel Expense
+2025-06-01,Shopping,1233,UPI,Monthly Payment
+2025-06-29,Food,173,Cash,Monthly Payment
+2025-01-24,Bills,2358,Debit Card,Monthly Payment
+2025-01-26,Travel,909,Debit Card,Utility Bill
+2025-02-03,Bills,1383,Debit Card,Monthly Payment
+2025-05-20,Travel,759,UPI,Daily Expense
+2025-03-09,Food,348,UPI,Monthly Payment
+2025-04-22,Bills,3362,Credit Card,Travel Expense
+2025-06-17,Travel,2488,UPI,Daily Expense
+2025-02-14,Travel,1128,Credit Card,Travel Expense
+2025-02-26,Shopping,2357,Credit Card,Utility Bill
+2025-05-29,Rent,8774,Debit Card,Monthly Payment
+2025-01-31,Rent,14487,Cash,Travel Expense
+2025-06-18,Rent,10904,Cash,Purchase
+2025-04-10,Shopping,3665,Cash,Travel Expense
+2025-05-31,Rent,18473,Cash,Daily Expense
+2025-05-23,Shopping,4970,UPI,Daily Expense
+2025-06-14,Travel,2985,UPI,Utility Bill
+2025-01-02,Shopping,3243,Debit Card,Travel Expense
+2025-06-29,Food,599,Cash,Monthly Payment
+2025-05-31,Travel,643,Cash,Daily Expense
+2025-05-11,Rent,17101,UPI,Daily Expense
+2025-02-01,Shopping,3651,UPI,Daily Expense
+2025-06-17,Bills,3491,UPI,Utility Bill
+2025-05-09,Shopping,2662,UPI,Utility Bill
+2025-03-05,Rent,17730,Debit Card,Utility Bill
+2025-02-09,Shopping,3233,Credit Card,Travel Expense
+2025-01-30,Shopping,3195,Credit Card,Monthly Payment
+2025-06-02,Travel,527,UPI,Purchase
+2025-05-05,Rent,17925,Cash,Utility Bill
+2025-02-03,Food,794,UPI,Purchase
+2025-06-26,Travel,1988,Credit Card,Utility Bill
+2025-02-27,Bills,2937,UPI,Daily Expense
+2025-03-19,Shopping,4691,Credit Card,Utility Bill
+2025-06-06,Travel,1136,UPI,Utility Bill
+2025-06-22,Food,355,Cash,Daily Expense
+2025-04-06,Bills,2948,UPI,Utility Bill
+2025-01-15,Rent,11133,Cash,Utility Bill
+2025-05-26,Food,171,Cash,Purchase
+2025-05-01,Travel,511,Debit Card,Utility Bill
+2025-03-22,Food,546,Cash,Purchase
+2025-03-05,Rent,12064,Debit Card,Daily Expense
+2025-02-08,Shopping,3037,Debit Card,Utility Bill
+2025-02-13,Food,229,Credit Card,Monthly Payment
+2025-06-30,Travel,2545,Credit Card,Daily Expense
+2025-01-14,Food,532,Cash,Utility Bill
+2025-04-09,Food,249,Cash,Purchase
+2025-01-25,Bills,840,UPI,Monthly Payment
+2025-04-07,Food,385,Debit Card,Travel Expense
+2025-02-11,Travel,1808,Debit Card,Travel Expense
+2025-05-13,Rent,13538,Debit Card,Purchase
+2025-01-02,Travel,2257,Debit Card,Purchase
+2025-03-26,Shopping,2267,Debit Card,Utility Bill
+2025-03-04,Food,522,UPI,Daily Expense
+2025-05-30,Travel,2447,Cash,Utility Bill
+2025-05-14,Rent,12513,UPI,Travel Expense
+2025-06-16,Shopping,772,Credit Card,Daily Expense
+2025-03-30,Bills,1236,Debit Card,Utility Bill
+2025-05-31,Travel,1330,UPI,Purchase
+2025-02-28,Travel,785,Debit Card,Utility Bill
+2025-02-06,Rent,19384,Cash,Travel Expense
+2025-03-29,Shopping,3588,Cash,Daily Expense
+2025-02-10,Shopping,3017,UPI,Travel Expense
+2025-01-22,Shopping,2425,Cash,Daily Expense
+2025-02-12,Bills,3973,UPI,Travel Expense
+2025-02-26,Travel,2126,UPI,Monthly Payment
+2025-01-03,Travel,2693,Credit Card,Purchase
+2025-03-11,Bills,3303,UPI,Utility Bill
+2025-04-26,Rent,11457,Debit Card,Purchase
+2025-06-26,Rent,12971,Cash,Utility Bill
+2025-06-30,Bills,2065,Cash,Travel Expense
+2025-04-14,Rent,19920,Cash,Utility Bill
+2025-04-05,Shopping,860,UPI,Daily Expense
+2025-06-29,Shopping,2513,Credit Card,Travel Expense
+2025-06-13,Rent,9541,UPI,Travel Expense
+2025-02-12,Shopping,2591,UPI,Monthly Payment
+2025-01-28,Food,362,Cash,Utility Bill
+2025-06-17,Shopping,1514,Cash,Daily Expense
+2025-01-11,Bills,2843,Credit Card,Utility Bill
+2025-04-16,Rent,11641,Cash,Utility Bill
+2025-02-12,Travel,2195,UPI,Utility Bill
+2025-02-20,Food,416,UPI,Daily Expense
+2025-04-19,Bills,1696,Credit Card,Monthly Payment
+2025-01-28,Shopping,2535,Cash,Monthly Payment
+2025-05-29,Shopping,509,Credit Card,Utility Bill
+2025-04-16,Bills,2762,UPI,Daily Expense
+2025-01-01,Bills,3978,Cash,Utility Bill
+2025-02-21,Food,784,Cash,Monthly Payment
+2025-03-02,Food,607,Debit Card,Utility Bill
+2025-06-08,Bills,950,UPI,Utility Bill
+2025-06-03,Shopping,1821,Credit Card,Monthly Payment
+2025-05-23,Rent,16726,Debit Card,Monthly Payment
+2025-01-13,Rent,8796,Cash,Daily Expense
+2025-04-15,Food,125,Credit Card,Utility Bill
+2025-02-03,Bills,682,Cash,Purchase
+2025-04-26,Rent,11008,Credit Card,Monthly Payment
+2025-02-09,Food,441,Credit Card,Utility Bill
+2025-04-09,Bills,1891,Credit Card,Monthly Payment
+2025-03-23,Travel,1695,UPI,Travel Expense
+2025-03-16,Food,528,Cash,Purchase
+2025-03-02,Food,301,Credit Card,Monthly Payment
+2025-05-07,Food,259,Cash,Utility Bill
+2025-01-26,Shopping,3699,Credit Card,Utility Bill
+2025-02-12,Rent,12977,Debit Card,Purchase
+2025-06-18,Travel,1910,UPI,Utility Bill
+2025-05-02,Food,659,Cash,Daily Expense
+2025-02-06,Food,318,UPI,Utility Bill
+2025-06-10,Food,781,Debit Card,Purchase
+2025-04-28,Rent,17778,UPI,Utility Bill
+2025-01-29,Travel,757,UPI,Utility Bill
+2025-06-10,Bills,3302,Cash,Daily Expense
+2025-03-13,Travel,2013,Cash,Purchase
+2025-01-31,Travel,507,UPI,Monthly Payment
+2025-03-03,Shopping,2625,UPI,Utility Bill
+2025-03-19,Shopping,1850,UPI,Travel Expense
+2025-05-06,Shopping,4701,UPI,Travel Expense
+2025-04-11,Food,301,UPI,Purchase
+2025-02-02,Food,628,Credit Card,Utility Bill
+2025-01-07,Shopping,3491,UPI,Purchase
+2025-05-15,Food,354,Credit Card,Utility Bill
+2025-01-24,Travel,651,Credit Card,Travel Expense
+2025-05-30,Shopping,1933,UPI,Monthly Payment
+2025-01-16,Bills,993,UPI,Travel Expense
+2025-04-27,Travel,2170,UPI,Utility Bill
+2025-05-07,Shopping,941,UPI,Travel Expense
+2025-06-09,Rent,8670,Debit Card,Daily Expense
+2025-02-19,Travel,1517,Debit Card,Travel Expense
+2025-03-01,Bills,2987,UPI,Purchase
+2025-02-22,Rent,16212,Cash,Monthly Payment
+2025-03-02,Food,157,Debit Card,Daily Expense
+2025-03-05,Rent,10690,Debit Card,Travel Expense
+2025-01-11,Shopping,1224,Cash,Utility Bill
+2025-01-24,Travel,635,Debit Card,Monthly Payment
+2025-01-02,Rent,9290,UPI,Utility Bill
+2025-04-27,Rent,10430,Debit Card,Daily Expense
+2025-05-05,Rent,10923,UPI,Utility Bill
+2025-06-16,Travel,2292,Credit Card,Utility Bill
+2025-01-25,Rent,15239,Debit Card,Utility Bill
+2025-06-20,Shopping,3985,Credit Card,Purchase
+2025-06-26,Food,316,Cash,Purchase
+2025-05-12,Rent,11431,UPI,Monthly Payment
+2025-06-17,Rent,18542,UPI,Monthly Payment
+2025-03-14,Food,459,Debit Card,Monthly Payment
+2025-03-07,Travel,529,Cash,Utility Bill
+2025-06-27,Rent,10852,Cash,Daily Expense
+2025-06-25,Rent,19328,Debit Card,Monthly Payment
+2025-03-29,Bills,573,UPI,Monthly Payment
+2025-05-17,Shopping,4685,Debit Card,Utility Bill
+2025-06-17,Rent,11283,Cash,Purchase
+2025-01-19,Bills,417,Debit Card,Monthly Payment
+2025-02-25,Rent,11419,UPI,Daily Expense
+2025-04-14,Bills,650,Credit Card,Utility Bill
+2025-06-19,Shopping,711,Cash,Purchase
+2025-03-11,Shopping,4267,Cash,Purchase
+2025-04-30,Shopping,1562,UPI,Purchase
+2025-01-12,Travel,2250,Cash,Daily Expense
+2025-05-29,Shopping,2739,UPI,Monthly Payment
+2025-03-12,Shopping,1003,Debit Card,Purchase
+2025-02-07,Food,730,Credit Card,Travel Expense
+2025-01-12,Food,689,UPI,Daily Expense
+2025-04-09,Travel,2337,Cash,Utility Bill
+2025-06-19,Travel,1235,UPI,Utility Bill
+2025-01-22,Shopping,3688,UPI,Daily Expense
+2025-01-31,Rent,12858,UPI,Travel Expense
+2025-06-18,Rent,13705,Credit Card,Utility Bill
+2025-03-22,Travel,689,UPI,Travel Expense
+2025-06-08,Food,274,Cash,Travel Expense
+2025-04-08,Bills,1957,Debit Card,Purchase
+2025-06-02,Travel,2815,UPI,Daily Expense
+2025-04-27,Travel,799,Credit Card,Purchase
+2025-06-09,Shopping,703,UPI,Daily Expense
+2025-06-06,Travel,2051,UPI,Purchase
+2025-06-09,Food,266,Debit Card,Purchase
+2025-03-24,Bills,820,Credit Card,Travel Expense
+2025-02-01,Food,698,Debit Card,Utility Bill
+2025-06-19,Travel,2912,Cash,Travel Expense
+2025-01-02,Travel,2152,Cash,Travel Expense
+2025-04-23,Shopping,2575,Credit Card,Purchase
+2025-01-24,Shopping,745,Credit Card,Monthly Payment
+2025-05-21,Food,100,UPI,Daily Expense
+2025-06-04,Travel,1074,Credit Card,Daily Expense
+2025-05-24,Bills,2068,Credit Card,Monthly Payment
+2025-06-01,Food,630,Debit Card,Daily Expense
+2025-05-01,Food,603,UPI,Daily Expense
+2025-03-11,Rent,17026,Cash,Daily Expense
+2025-03-21,Travel,1290,UPI,Monthly Payment
+2025-06-30,Bills,1550,Credit Card,Travel Expense
+2025-03-02,Bills,2193,Credit Card,Monthly Payment
+2025-05-20,Bills,632,Cash,Daily Expense
+2025-06-19,Travel,1596,Debit Card,Monthly Payment
+2025-06-16,Bills,2727,Credit Card,Travel Expense
+2025-06-16,Travel,2971,Cash,Daily Expense
+2025-04-06,Shopping,1231,Debit Card,Daily Expense
+2025-03-26,Food,740,Credit Card,Utility Bill
+2025-04-12,Food,100,UPI,Daily Expense
+2025-02-06,Shopping,3202,UPI,Monthly Payment
+2025-02-22,Food,642,UPI,Travel Expense
+2025-04-15,Bills,3225,Credit Card,Travel Expense
+2025-04-19,Travel,1399,Debit Card,Utility Bill
+2025-01-15,Bills,3552,Credit Card,Daily Expense
+2025-02-16,Food,708,Cash,Travel Expense
+2025-03-29,Shopping,1295,Cash,Monthly Payment
+2025-02-08,Rent,9626,UPI,Monthly Payment
+2025-01-13,Travel,541,UPI,Purchase
+2025-01-10,Shopping,2804,Cash,Travel Expense
+2025-06-28,Bills,3984,Cash,Purchase
+2025-03-06,Rent,11526,Debit Card,Monthly Payment
+2025-05-22,Bills,2679,UPI,Travel Expense
+2025-04-18,Shopping,1792,UPI,Daily Expense
+2025-05-08,Food,555,Credit Card,Monthly Payment
+2025-03-12,Bills,3454,UPI,Purchase
+2025-02-05,Shopping,1397,Debit Card,Utility Bill
+2025-03-15,Travel,1582,Cash,Purchase
+2025-02-13,Travel,2480,Debit Card,Utility Bill
+2025-05-23,Rent,9847,UPI,Monthly Payment
+2025-06-19,Travel,2357,Credit Card,Purchase
+2025-03-27,Food,692,UPI,Utility Bill
+2025-02-28,Rent,11206,UPI,Purchase
+2025-03-05,Rent,16523,Cash,Monthly Payment
+2025-04-01,Food,217,Credit Card,Travel Expense
+2025-04-12,Travel,2912,Credit Card,Utility Bill
+2025-06-02,Bills,3972,Debit Card,Daily Expense
+2025-06-14,Rent,19985,UPI,Monthly Payment
+2025-01-16,Rent,18451,Credit Card,Daily Expense
+2025-01-22,Food,168,Credit Card,Utility Bill
+2025-06-13,Rent,18637,Cash,Monthly Payment
+2025-04-12,Rent,16046,Debit Card,Daily Expense
+2025-01-14,Travel,1862,Debit Card,Monthly Payment
+2025-05-17,Bills,2236,Cash,Utility Bill
+2025-02-15,Food,353,Debit Card,Purchase
+2025-02-22,Travel,1202,Debit Card,Daily Expense
+2025-03-07,Bills,3605,Credit Card,Monthly Payment
+2025-05-29,Shopping,1608,Debit Card,Daily Expense
+2025-01-16,Travel,1777,Cash,Monthly Payment
+2025-05-31,Shopping,672,Credit Card,Daily Expense
+2025-05-07,Shopping,922,UPI,Daily Expense
+2025-04-24,Shopping,1649,Debit Card,Travel Expense
+2025-03-09,Rent,18548,UPI,Monthly Payment
+2025-05-21,Bills,749,Credit Card,Monthly Payment
+2025-03-31,Travel,2079,Credit Card,Daily Expense
+2025-02-22,Rent,8224,UPI,Purchase
+2025-01-05,Food,233,Debit Card,Monthly Payment
+2025-04-08,Food,579,Cash,Utility Bill
+2025-01-23,Shopping,1492,Debit Card,Utility Bill
+2025-05-15,Rent,13947,Cash,Utility Bill
+2025-06-29,Shopping,821,Cash,Travel Expense
+2025-03-18,Travel,2396,Debit Card,Travel Expense
+2025-05-13,Food,598,Credit Card,Daily Expense
+2025-01-07,Travel,2004,Credit Card,Travel Expense
+2025-03-26,Rent,15340,Cash,Monthly Payment
+2025-06-18,Food,390,UPI,Travel Expense
+2025-05-30,Travel,868,Credit Card,Utility Bill
+2025-04-20,Shopping,3539,Debit Card,Daily Expense
+2025-02-11,Shopping,3953,Credit Card,Monthly Payment
+2025-06-22,Bills,2526,Cash,Daily Expense
+2025-06-15,Travel,2798,UPI,Monthly Payment
+2025-03-10,Shopping,1986,Credit Card,Daily Expense
+2025-05-25,Bills,3487,UPI,Daily Expense
+2025-01-12,Rent,16909,Cash,Daily Expense
+2025-02-06,Travel,1925,Credit Card,Purchase
+2025-02-25,Travel,1215,UPI,Daily Expense
+2025-05-18,Travel,2238,Cash,Monthly Payment
+2025-03-25,Rent,18042,Cash,Daily Expense
+2025-05-31,Travel,1309,Credit Card,Monthly Payment
+2025-06-10,Food,292,Credit Card,Monthly Payment
+2025-02-17,Bills,1474,UPI,Utility Bill
+2025-05-05,Food,506,Debit Card,Monthly Payment
+2025-06-09,Bills,2890,UPI,Travel Expense
+2025-01-08,Food,511,Debit Card,Utility Bill
+2025-04-17,Rent,8230,Debit Card,Monthly Payment
+2025-04-17,Shopping,1042,Credit Card,Utility Bill
+2025-02-11,Food,460,UPI,Daily Expense
+2025-03-03,Shopping,797,Cash,Travel Expense
+2025-02-12,Food,102,Debit Card,Daily Expense
+2025-04-20,Food,384,UPI,Purchase
+2025-01-14,Food,162,Cash,Purchase
+2025-03-22,Rent,12711,Credit Card,Purchase
+2025-06-10,Bills,499,Credit Card,Travel Expense
+2025-01-04,Rent,15725,Cash,Travel Expense
+2025-02-09,Rent,10657,Credit Card,Daily Expense
+2025-01-09,Food,742,Debit Card,Daily Expense
+2025-04-26,Bills,972,Cash,Purchase
+2025-05-07,Rent,13573,Cash,Utility Bill
+2025-03-17,Travel,1293,Debit Card,Purchase
+2025-06-06,Travel,2459,Debit Card,Daily Expense
+2025-03-25,Shopping,532,Credit Card,Monthly Payment
+2025-05-19,Food,259,Credit Card,Purchase
+2025-03-19,Shopping,2998,Cash,Daily Expense
+2025-06-26,Travel,948,Credit Card,Utility Bill
+2025-01-15,Rent,16528,Debit Card,Travel Expense
+2025-04-26,Rent,18368,Debit Card,Travel Expense
+2025-02-08,Shopping,4648,Cash,Travel Expense
+2025-03-14,Shopping,2785,Credit Card,Daily Expense
+2025-01-12,Bills,1941,Credit Card,Daily Expense
+2025-05-03,Food,359,Credit Card,Utility Bill
+2025-02-27,Travel,2221,UPI,Monthly Payment
+2025-02-05,Travel,2483,Cash,Purchase
+2025-06-09,Shopping,3892,Cash,Monthly Payment
+2025-02-08,Shopping,901,Credit Card,Purchase
+2025-02-04,Bills,2142,Cash,Purchase
+2025-04-16,Food,627,Credit Card,Travel Expense
+2025-04-12,Rent,9868,Debit Card,Utility Bill
+2025-06-16,Shopping,1380,Debit Card,Utility Bill
+2025-06-28,Shopping,781,Debit Card,Utility Bill
+2025-06-01,Travel,2493,Debit Card,Purchase
+2025-01-01,Food,152,UPI,Utility Bill
+2025-03-19,Food,416,Cash,Travel Expense
+2025-03-04,Rent,15770,Cash,Utility Bill
+2025-04-08,Shopping,2429,Cash,Utility Bill
+2025-02-23,Rent,10802,Credit Card,Travel Expense
+2025-01-01,Bills,3846,Cash,Purchase
+2025-06-22,Travel,2265,Cash,Daily Expense
+2025-04-16,Shopping,3960,Cash,Monthly Payment
+2025-06-30,Travel,1021,Cash,Monthly Payment
+2025-03-03,Travel,1443,Credit Card,Daily Expense
+2025-06-30,Bills,2065,Credit Card,Utility Bill
+2025-06-14,Food,739,Credit Card,Purchase
+2025-02-12,Food,318,Debit Card,Purchase
+2025-02-19,Food,401,Debit Card,Travel Expense
+2025-03-11,Food,331,Debit Card,Monthly Payment
+2025-03-26,Travel,2812,Debit Card,Utility Bill
+2025-01-06,Travel,2407,UPI,Travel Expense
+2025-06-28,Shopping,4488,UPI,Daily Expense
+2025-06-02,Bills,1669,Credit Card,Utility Bill
+2025-03-05,Rent,16892,Debit Card,Monthly Payment
+2025-03-18,Travel,1240,Cash,Purchase
+2025-05-17,Rent,11472,Debit Card,Utility Bill
+2025-03-30,Travel,1685,UPI,Monthly Payment
+2025-04-22,Food,335,Credit Card,Utility Bill
+2025-05-19,Shopping,3927,Credit Card,Travel Expense
+2025-02-10,Rent,13634,Credit Card,Utility Bill
+2025-03-11,Rent,18135,Debit Card,Purchase
+2025-02-13,Travel,2952,Credit Card,Purchase
+2025-06-13,Rent,11811,Cash,Daily Expense
+2025-02-25,Travel,1103,Debit Card,Utility Bill
+2025-06-04,Food,643,Cash,Utility Bill
+2025-01-27,Bills,2018,Cash,Purchase
+2025-02-23,Food,651,Credit Card,Purchase
+2025-05-15,Food,324,UPI,Utility Bill
+2025-02-04,Rent,9074,Cash,Travel Expense
+2025-01-04,Rent,17405,Debit Card,Utility Bill
+2025-03-17,Shopping,1007,Cash,Monthly Payment
+2025-03-01,Food,114,Cash,Daily Expense
+2025-02-16,Shopping,2700,Cash,Travel Expense
+2025-04-12,Travel,1261,UPI,Daily Expense
+2025-05-17,Bills,3045,Cash,Monthly Payment
+2025-04-28,Shopping,1431,Cash,Travel Expense
+2025-04-22,Rent,14839,Debit Card,Daily Expense
+2025-01-02,Travel,658,Cash,Purchase
+2025-06-15,Shopping,4336,UPI,Purchase
+2025-02-10,Travel,2506,UPI,Purchase
+2025-04-09,Bills,1333,Credit Card,Monthly Payment
+2025-02-01,Bills,633,Cash,Daily Expense
+2025-04-19,Shopping,3394,Debit Card,Daily Expense
+2025-06-23,Bills,586,UPI,Utility Bill
+2025-02-27,Rent,16647,Credit Card,Daily Expense
+2025-04-10,Bills,3293,Credit Card,Purchase
+2025-05-19,Food,534,Debit Card,Utility Bill
+2025-03-21,Food,638,UPI,Utility Bill
+2025-02-10,Rent,17601,Credit Card,Daily Expense
+2025-03-26,Travel,1926,Credit Card,Monthly Payment
+2025-05-04,Shopping,2499,Debit Card,Travel Expense
+2025-01-24,Rent,12140,Debit Card,Monthly Payment
+2025-03-06,Food,443,Credit Card,Purchase
+2025-05-31,Rent,8124,UPI,Daily Expense
+2025-06-07,Bills,3050,Cash,Daily Expense
+2025-03-27,Bills,3765,Debit Card,Travel Expense
+2025-06-04,Shopping,4801,UPI,Travel Expense
+2025-01-07,Travel,2399,Debit Card,Travel Expense
+2025-03-26,Rent,15429,Debit Card,Utility Bill
+2025-01-23,Travel,2940,Credit Card,Daily Expense
+2025-03-07,Shopping,2605,Cash,Monthly Payment
+2025-03-03,Travel,2721,Debit Card,Utility Bill
+2025-01-16,Shopping,802,Debit Card,Daily Expense
+2025-03-24,Bills,2892,UPI,Purchase
+2025-03-05,Food,585,UPI,Travel Expense
+2025-01-04,Shopping,4745,Debit Card,Monthly Payment
+2025-03-24,Bills,798,UPI,Travel Expense
+2025-05-08,Bills,1756,Credit Card,Utility Bill
+2025-04-01,Travel,2103,Cash,Monthly Payment
+2025-05-04,Shopping,4742,UPI,Monthly Payment
+2025-02-13,Food,787,Debit Card,Purchase
+2025-01-28,Rent,12898,Debit Card,Utility Bill
+2025-06-01,Travel,1048,UPI,Utility Bill
+2025-04-10,Bills,3151,Credit Card,Travel Expense
+2025-03-07,Bills,3275,Cash,Daily Expense
+2025-05-05,Rent,14316,UPI,Daily Expense
+2025-06-25,Shopping,1817,Debit Card,Utility Bill
+2025-03-03,Travel,2759,UPI,Utility Bill
+2025-02-26,Food,308,Cash,Monthly Payment
+2025-04-24,Food,735,Cash,Monthly Payment
+2025-05-27,Rent,8854,Credit Card,Travel Expense
+2025-02-11,Rent,10515,Credit Card,Travel Expense
+2025-06-08,Travel,2942,UPI,Travel Expense
+2025-04-25,Shopping,804,Cash,Purchase
+2025-04-03,Food,706,Debit Card,Travel Expense
+2025-06-12,Food,273,Credit Card,Travel Expense
+2025-05-14,Bills,3663,UPI,Purchase
+2025-03-01,Shopping,1882,UPI,Utility Bill
+2025-03-21,Bills,3880,UPI,Monthly Payment
+2025-01-18,Rent,17968,Credit Card,Monthly Payment
+2025-04-30,Rent,16672,UPI,Daily Expense
+2025-05-03,Rent,9740,Credit Card,Daily Expense
+2025-02-04,Shopping,4847,Cash,Purchase
+2025-03-01,Bills,1670,Debit Card,Daily Expense
+2025-05-16,Shopping,2798,Credit Card,Purchase
+2025-06-25,Travel,2121,Credit Card,Utility Bill
+2025-04-08,Bills,1686,UPI,Daily Expense
+2025-06-04,Food,638,Debit Card,Travel Expense
+2025-05-25,Bills,701,Cash,Monthly Payment
+2025-04-30,Bills,2828,Debit Card,Travel Expense
+2025-02-22,Bills,3890,Debit Card,Utility Bill
+2025-02-12,Travel,1113,UPI,Daily Expense
+2025-03-11,Bills,2447,UPI,Purchase
+2025-01-14,Food,287,Cash,Daily Expense
+2025-01-03,Bills,2144,UPI,Monthly Payment
+2025-01-18,Food,495,Cash,Daily Expense
+2025-04-28,Food,462,Credit Card,Monthly Payment
+2025-05-29,Bills,2885,Credit Card,Purchase
+2025-02-17,Rent,16687,UPI,Daily Expense
+2025-02-08,Rent,8495,Credit Card,Purchase
+2025-02-24,Shopping,3889,Debit Card,Utility Bill
+2025-02-05,Food,430,Cash,Daily Expense
+2025-03-14,Bills,3883,Debit Card,Daily Expense
+2025-02-01,Rent,15501,UPI,Daily Expense
+2025-03-07,Food,509,Credit Card,Travel Expense
+2025-05-07,Travel,2072,UPI,Travel Expense
+2025-01-06,Rent,18866,Debit Card,Purchase
+2025-01-29,Food,292,Cash,Purchase
+2025-01-09,Shopping,2346,Debit Card,Travel Expense
+2025-01-18,Shopping,3939,Debit Card,Monthly Payment
+2025-03-08,Rent,18316,UPI,Monthly Payment
+2025-02-28,Bills,2431,Debit Card,Utility Bill
+2025-03-23,Travel,2793,Cash,Daily Expense
+2025-06-14,Food,671,Debit Card,Monthly Payment
+2025-04-27,Food,399,Debit Card,Travel Expense
+2025-04-30,Rent,9165,Cash,Monthly Payment
+2025-03-05,Bills,1498,UPI,Utility Bill
+2025-05-07,Food,613,Debit Card,Purchase
+2025-02-21,Food,317,Cash,Monthly Payment
+2025-06-13,Food,506,Debit Card,Daily Expense
+2025-06-12,Bills,2911,Credit Card,Utility Bill
+2025-05-28,Shopping,2778,Debit Card,Daily Expense
+2025-05-18,Travel,1539,Cash,Utility Bill
+2025-05-13,Travel,2774,Credit Card,Monthly Payment
+2025-01-04,Rent,9924,Debit Card,Travel Expense
+2025-01-12,Food,569,Cash,Travel Expense
+2025-05-13,Shopping,3072,UPI,Travel Expense
+2025-04-27,Rent,15348,UPI,Purchase
+2025-05-14,Bills,3442,Cash,Purchase
+2025-05-26,Shopping,1139,Credit Card,Daily Expense
+2025-04-20,Rent,16040,Debit Card,Monthly Payment
+2025-04-20,Shopping,1811,Credit Card,Travel Expense
+2025-02-20,Travel,637,Credit Card,Travel Expense
+2025-05-27,Food,705,Cash,Monthly Payment
+2025-01-06,Travel,1619,Credit Card,Monthly Payment
+2025-03-22,Shopping,4679,Credit Card,Travel Expense
+2025-04-10,Rent,14403,Debit Card,Utility Bill
+2025-03-04,Shopping,3376,UPI,Purchase
+2025-01-12,Food,786,UPI,Travel Expense
+2025-01-14,Travel,1038,UPI,Travel Expense
+2025-04-11,Rent,17819,UPI,Purchase
+2025-03-26,Shopping,4697,Credit Card,Travel Expense
+2025-02-21,Food,309,UPI,Utility Bill
+2025-06-05,Shopping,3114,Credit Card,Travel Expense
+2025-06-06,Shopping,3506,Cash,Purchase
+2025-02-06,Rent,12864,UPI,Utility Bill
+2025-04-22,Shopping,2980,UPI,Monthly Payment
+2025-01-25,Food,558,Cash,Monthly Payment
+2025-06-21,Bills,3434,Debit Card,Utility Bill
+2025-01-15,Travel,1241,Debit Card,Utility Bill
+2025-03-21,Rent,14985,Credit Card,Purchase
+2025-05-16,Food,724,Debit Card,Monthly Payment
+2025-03-14,Travel,790,UPI,Utility Bill
+2025-05-03,Shopping,3230,UPI,Daily Expense
+2025-01-15,Bills,2240,Cash,Monthly Payment
+2025-01-21,Bills,3057,Cash,Monthly Payment
+2025-05-07,Rent,18115,UPI,Travel Expense
+2025-02-25,Shopping,2338,Credit Card,Travel Expense
+2025-01-16,Shopping,4604,Cash,Travel Expense
+2025-03-28,Bills,1626,Debit Card,Purchase
+2025-06-11,Travel,2743,Debit Card,Monthly Payment
+2025-01-04,Bills,2540,UPI,Travel Expense
+2025-05-17,Bills,1642,UPI,Purchase
+2025-03-07,Bills,2577,Debit Card,Daily Expense
+2025-05-20,Shopping,4519,Cash,Utility Bill
+2025-02-28,Food,436,Credit Card,Utility Bill
+2025-03-04,Food,243,Credit Card,Purchase
+2025-01-31,Shopping,2434,UPI,Travel Expense
+2025-01-08,Rent,18575,Debit Card,Utility Bill
+2025-06-08,Food,720,Debit Card,Utility Bill
+2025-02-11,Shopping,3625,UPI,Utility Bill
+2025-06-29,Food,307,Credit Card,Travel Expense
+2025-01-09,Bills,2905,Cash,Daily Expense
+2025-01-27,Bills,3294,Credit Card,Utility Bill
+2025-03-02,Shopping,2496,Debit Card,Monthly Payment
+2025-05-02,Rent,10086,Cash,Daily Expense
+2025-03-28,Shopping,2498,UPI,Daily Expense
+2025-06-18,Food,406,UPI,Daily Expense
+2025-06-13,Shopping,3545,Cash,Daily Expense
+2025-01-20,Bills,3230,Debit Card,Monthly Payment
+2025-06-02,Food,510,Cash,Daily Expense
+2025-03-07,Rent,15406,Cash,Utility Bill
+2025-01-24,Travel,1265,UPI,Daily Expense
+2025-04-30,Rent,14917,UPI,Purchase
+2025-01-20,Travel,1975,UPI,Travel Expense
+2025-03-01,Travel,1119,UPI,Daily Expense
+2025-03-31,Bills,806,Credit Card,Utility Bill
+2025-01-20,Shopping,626,UPI,Utility Bill
+2025-03-01,Shopping,2181,Debit Card,Monthly Payment
+2025-02-23,Bills,3237,Debit Card,Daily Expense
+2025-06-17,Shopping,2667,UPI,Monthly Payment
+2025-01-20,Rent,9185,UPI,Daily Expense
+2025-06-24,Shopping,1807,Cash,Travel Expense
+2025-06-17,Shopping,1671,UPI,Travel Expense
+2025-03-18,Rent,17098,UPI,Utility Bill
+2025-06-10,Bills,2533,Debit Card,Monthly Payment
+2025-01-17,Bills,1097,UPI,Monthly Payment
+2025-01-25,Shopping,2132,Cash,Travel Expense
+2025-06-25,Rent,10087,UPI,Utility Bill
+2025-04-09,Food,495,Credit Card,Monthly Payment
+2025-04-07,Food,207,UPI,Utility Bill
+2025-03-14,Rent,16878,Credit Card,Purchase
+2025-04-06,Rent,16372,Credit Card,Utility Bill
+2025-04-06,Shopping,1747,Credit Card,Travel Expense
+2025-02-19,Rent,16193,Cash,Purchase
+2025-01-23,Travel,2366,Credit Card,Travel Expense
+2025-04-18,Shopping,1889,Debit Card,Daily Expense
+2025-06-26,Shopping,3183,UPI,Utility Bill
+2025-03-29,Food,445,UPI,Monthly Payment
+2025-05-29,Shopping,4907,Cash,Travel Expense
+2025-04-08,Rent,12359,Credit Card,Travel Expense
+2025-06-05,Travel,2621,UPI,Monthly Payment
+2025-02-17,Shopping,3376,Debit Card,Purchase
+2025-03-18,Travel,2587,Debit Card,Travel Expense
+2025-03-07,Rent,12968,Cash,Daily Expense
+2025-04-05,Bills,2149,Credit Card,Utility Bill
+2025-01-25,Rent,15698,UPI,Travel Expense
+2025-01-10,Shopping,813,Cash,Utility Bill
+2025-04-13,Travel,2502,UPI,Travel Expense
+2025-01-04,Travel,1655,Credit Card,Daily Expense
+2025-04-05,Food,164,Debit Card,Utility Bill
+2025-06-26,Food,444,Debit Card,Daily Expense
+2025-05-30,Food,114,Cash,Utility Bill
+2025-03-10,Travel,1790,Credit Card,Monthly Payment
+2025-02-19,Shopping,4592,Cash,Monthly Payment
+2025-05-15,Shopping,1697,Debit Card,Purchase
+2025-01-29,Food,538,Debit Card,Utility Bill
+2025-02-11,Shopping,1954,UPI,Travel Expense
+2025-02-25,Food,491,Debit Card,Monthly Payment
+2025-03-04,Shopping,4212,Cash,Purchase
+2025-06-10,Travel,2364,UPI,Utility Bill
+2025-05-30,Bills,1031,UPI,Daily Expense
+2025-05-19,Food,444,Cash,Monthly Payment
+2025-05-27,Food,726,Cash,Travel Expense
+2025-03-21,Food,179,Credit Card,Purchase
+2025-06-30,Travel,1739,Cash,Daily Expense
+2025-05-25,Bills,1183,UPI,Travel Expense
+2025-03-03,Rent,11411,Cash,Purchase
+2025-04-04,Bills,2944,Credit Card,Daily Expense
+2025-03-31,Travel,554,UPI,Travel Expense
+2025-02-07,Rent,16952,Credit Card,Purchase
+2025-02-04,Food,743,Credit Card,Travel Expense
+2025-02-23,Shopping,3592,UPI,Daily Expense
+2025-01-02,Food,791,Debit Card,Daily Expense
+2025-01-28,Bills,2903,Cash,Monthly Payment
+2025-05-25,Food,452,Debit Card,Purchase
+2025-02-16,Shopping,2051,UPI,Monthly Payment
+2025-02-20,Shopping,4073,Debit Card,Purchase
+2025-05-22,Bills,1027,UPI,Travel Expense
+2025-06-04,Bills,3804,UPI,Purchase
+2025-03-11,Shopping,2106,Debit Card,Daily Expense
+2025-03-15,Travel,2728,Debit Card,Daily Expense
+2025-04-08,Bills,319,Cash,Utility Bill
+2025-02-22,Bills,3627,Debit Card,Purchase
+2025-02-19,Rent,19358,Debit Card,Utility Bill
+2025-04-11,Food,711,Cash,Monthly Payment
+2025-03-28,Food,629,Debit Card,Purchase
+2025-03-22,Rent,18161,Credit Card,Utility Bill
+2025-05-28,Bills,2379,UPI,Travel Expense
+2025-01-18,Travel,2643,Debit Card,Travel Expense
+2025-02-15,Rent,15727,Cash,Purchase
+2025-01-04,Bills,574,Credit Card,Monthly Payment
+2025-03-17,Bills,3188,Cash,Daily Expense
+2025-01-27,Rent,12290,Debit Card,Daily Expense
+2025-05-15,Rent,18272,Cash,Travel Expense
+2025-05-21,Shopping,4588,Cash,Purchase
+2025-04-18,Shopping,613,Debit Card,Purchase
+2025-06-08,Travel,2066,Debit Card,Daily Expense
+2025-05-20,Rent,11740,UPI,Travel Expense
+2025-04-12,Shopping,629,Debit Card,Monthly Payment
+2025-01-06,Shopping,2354,Credit Card,Utility Bill
+2025-03-06,Food,641,Cash,Monthly Payment
+2025-01-29,Shopping,1407,Credit Card,Daily Expense
+2025-02-20,Shopping,3481,Debit Card,Daily Expense
+2025-01-21,Food,460,UPI,Monthly Payment
+2025-05-11,Bills,2771,Debit Card,Daily Expense
+2025-04-08,Shopping,3848,Credit Card,Utility Bill
+2025-05-27,Shopping,810,Credit Card,Utility Bill
+2025-03-26,Bills,725,Credit Card,Daily Expense
+2025-01-28,Travel,1820,Credit Card,Monthly Payment
+2025-06-11,Travel,589,UPI,Purchase
+2025-02-17,Travel,604,UPI,Travel Expense
+2025-02-06,Rent,10571,Cash,Utility Bill
+2025-02-13,Rent,12797,Debit Card,Monthly Payment
+2025-05-19,Travel,796,Cash,Utility Bill
+2025-06-12,Bills,3649,UPI,Travel Expense
+2025-02-19,Bills,384,Cash,Monthly Payment
+2025-01-29,Shopping,1280,UPI,Travel Expense
+2025-06-22,Bills,3975,Debit Card,Utility Bill
+2025-02-14,Travel,2170,UPI,Travel Expense
+2025-01-09,Rent,9873,Credit Card,Daily Expense
+2025-01-01,Bills,474,UPI,Daily Expense
+2025-02-04,Shopping,2574,Cash,Utility Bill
+2025-04-09,Bills,815,UPI,Daily Expense
+2025-04-07,Shopping,2155,Debit Card,Utility Bill
+2025-04-10,Food,584,UPI,Travel Expense
+2025-06-10,Rent,15497,UPI,Purchase
+2025-03-28,Shopping,4760,Debit Card,Travel Expense
+2025-03-03,Food,473,UPI,Travel Expense
+2025-01-22,Bills,3805,UPI,Monthly Payment
+2025-06-01,Shopping,723,Cash,Utility Bill
+2025-02-03,Travel,2126,Credit Card,Purchase
+2025-02-10,Rent,9274,Cash,Utility Bill
+2025-01-16,Travel,1057,Cash,Utility Bill
+2025-01-22,Rent,13081,UPI,Utility Bill
+2025-04-16,Travel,2531,Debit Card,Monthly Payment
+2025-04-29,Bills,3628,Credit Card,Purchase
+2025-05-01,Bills,869,Debit Card,Purchase
+2025-04-28,Food,174,Cash,Travel Expense
+2025-01-25,Shopping,952,Cash,Utility Bill
+2025-05-24,Food,683,Credit Card,Daily Expense
+2025-02-03,Rent,10381,Cash,Daily Expense
+2025-06-18,Food,622,Debit Card,Utility Bill
+2025-05-31,Shopping,1377,Cash,Utility Bill
+2025-05-13,Food,322,UPI,Utility Bill
+2025-05-08,Rent,12217,Debit Card,Daily Expense
+2025-01-05,Travel,1293,Credit Card,Purchase
+2025-02-17,Food,349,Debit Card,Monthly Payment
+2025-03-13,Food,316,Debit Card,Purchase
+2025-01-03,Food,222,Debit Card,Travel Expense
+2025-03-21,Rent,18179,Debit Card,Purchase
+2025-04-30,Rent,19668,Credit Card,Monthly Payment
+2025-05-04,Rent,15571,Credit Card,Daily Expense
+2025-04-29,Bills,2075,Debit Card,Monthly Payment
+2025-06-20,Bills,2370,Credit Card,Travel Expense
+2025-06-26,Rent,10353,Debit Card,Daily Expense
+2025-01-10,Bills,1971,Credit Card,Daily Expense
+2025-02-02,Food,796,Cash,Daily Expense
+2025-01-08,Bills,2563,Debit Card,Utility Bill
+2025-03-15,Travel,1220,Debit Card,Monthly Payment
+2025-05-27,Shopping,4633,Debit Card,Utility Bill
+2025-01-22,Bills,3253,Debit Card,Travel Expense
+2025-05-04,Travel,2297,Cash,Monthly Payment
+2025-03-17,Bills,3947,Debit Card,Daily Expense
+2025-01-03,Travel,2223,Credit Card,Travel Expense
+2025-05-22,Food,639,UPI,Daily Expense
+2025-03-23,Rent,11011,UPI,Daily Expense
+2025-02-03,Shopping,2578,UPI,Daily Expense
+2025-03-01,Travel,1325,UPI,Monthly Payment
+2025-01-09,Rent,16331,Debit Card,Daily Expense
+2025-03-03,Rent,11702,Debit Card,Monthly Payment
+2025-01-12,Food,216,Credit Card,Travel Expense
+2025-06-12,Food,274,Debit Card,Monthly Payment
+2025-01-19,Travel,2200,Cash,Purchase
+2025-03-24,Travel,2187,Credit Card,Purchase
+2025-03-19,Rent,12516,Debit Card,Monthly Payment
+2025-01-31,Shopping,1443,Credit Card,Monthly Payment
+2025-03-16,Shopping,3085,Debit Card,Purchase
+2025-01-11,Rent,12585,Credit Card,Purchase
+2025-01-16,Rent,9262,Cash,Travel Expense
+2025-05-17,Travel,2974,Debit Card,Monthly Payment
+2025-05-13,Food,195,Cash,Utility Bill
+2025-02-08,Travel,2036,Cash,Daily Expense
+2025-06-26,Rent,8339,Debit Card,Monthly Payment
+2025-05-15,Shopping,3554,Cash,Purchase
+2025-01-07,Travel,1704,UPI,Daily Expense
+2025-02-18,Food,536,UPI,Purchase
+2025-05-28,Travel,777,Credit Card,Travel Expense
+2025-03-15,Bills,450,Debit Card,Purchase
+2025-05-21,Rent,10967,Cash,Monthly Payment
+2025-01-23,Travel,2654,Debit Card,Monthly Payment
+2025-01-03,Bills,2655,Cash,Monthly Payment
+2025-02-18,Bills,1313,Credit Card,Utility Bill
+2025-05-29,Food,321,UPI,Travel Expense
+2025-06-23,Food,448,UPI,Travel Expense
+2025-03-20,Bills,3819,UPI,Monthly Payment
+2025-04-27,Bills,1179,UPI,Monthly Payment
+2025-02-22,Shopping,965,Debit Card,Purchase
+2025-05-15,Shopping,2592,Debit Card,Utility Bill
+2025-01-06,Travel,1288,Cash,Travel Expense
+2025-06-12,Bills,2897,UPI,Daily Expense
+2025-05-10,Shopping,637,Cash,Purchase
+2025-04-02,Shopping,2457,Debit Card,Purchase
+2025-06-01,Bills,1617,Credit Card,Purchase
+2025-04-16,Rent,12548,Debit Card,Utility Bill
+2025-02-11,Rent,12236,UPI,Utility Bill
+2025-02-17,Shopping,1553,Credit Card,Purchase
+2025-02-15,Food,155,UPI,Travel Expense
+2025-02-28,Travel,1334,Credit Card,Purchase
+2025-04-06,Food,138,Credit Card,Daily Expense
+2025-04-05,Travel,1820,UPI,Daily Expense
+2025-01-11,Rent,12827,Credit Card,Utility Bill
+2025-06-03,Rent,11918,UPI,Daily Expense
+2025-06-17,Travel,1565,Cash,Utility Bill
+2025-02-24,Travel,1650,Cash,Daily Expense
+2025-01-19,Travel,731,Debit Card,Daily Expense
+2025-01-27,Travel,2407,Cash,Purchase
+2025-06-08,Food,773,Credit Card,Purchase
+2025-03-18,Shopping,3728,Debit Card,Daily Expense
+2025-01-27,Bills,1270,Credit Card,Utility Bill
+2025-01-05,Bills,2398,Cash,Utility Bill
+2025-02-27,Food,379,UPI,Daily Expense
+2025-03-18,Shopping,2670,Credit Card,Purchase
+2025-06-05,Shopping,1004,Credit Card,Daily Expense
+2025-05-29,Travel,2243,Cash,Purchase
+2025-04-16,Shopping,1765,Cash,Purchase
+2025-02-27,Bills,1647,Debit Card,Purchase
+2025-02-07,Shopping,3646,UPI,Daily Expense
+2025-04-27,Shopping,1457,Cash,Purchase
+2025-02-19,Rent,19620,Credit Card,Daily Expense
+2025-05-03,Shopping,3785,Credit Card,Purchase
+2025-01-07,Shopping,3906,Credit Card,Monthly Payment
+2025-06-08,Shopping,3679,Debit Card,Monthly Payment
+2025-01-05,Rent,13790,UPI,Utility Bill
+2025-01-03,Rent,15722,Credit Card,Utility Bill
+2025-03-19,Shopping,1974,Credit Card,Utility Bill
+2025-05-20,Rent,13916,Credit Card,Monthly Payment
+2025-02-11,Travel,1842,Cash,Daily Expense
+2025-05-02,Travel,2343,Debit Card,Daily Expense
+2025-05-16,Bills,2223,Credit Card,Daily Expense
+2025-04-20,Rent,17432,Cash,Daily Expense
+2025-04-23,Shopping,1157,UPI,Daily Expense
+2025-05-30,Travel,1738,Debit Card,Travel Expense
+2025-01-08,Travel,668,UPI,Travel Expense
+2025-04-05,Travel,2947,Cash,Purchase
+2025-06-25,Shopping,1852,Cash,Utility Bill
+2025-04-01,Food,391,Credit Card,Utility Bill
+2025-05-13,Food,485,Cash,Daily Expense
+2025-01-07,Food,647,UPI,Travel Expense
+2025-03-08,Rent,8096,UPI,Travel Expense
+2025-02-16,Rent,11188,Debit Card,Monthly Payment
+2025-05-28,Bills,1414,Debit Card,Purchase
+2025-03-12,Travel,2444,Debit Card,Purchase
+2025-06-06,Food,169,Debit Card,Daily Expense
+2025-04-16,Shopping,4940,Debit Card,Travel Expense
+2025-04-14,Shopping,4139,Cash,Utility Bill
+2025-02-21,Bills,803,Debit Card,Utility Bill
+2025-03-16,Travel,2441,Cash,Daily Expense
+2025-06-19,Food,615,UPI,Travel Expense
+2025-01-02,Travel,2083,Credit Card,Utility Bill
+2025-06-27,Food,250,Credit Card,Daily Expense
+2025-01-09,Shopping,1052,Cash,Utility Bill
+2025-03-01,Bills,3880,Cash,Travel Expense
+2025-01-15,Food,317,UPI,Daily Expense
+2025-03-08,Travel,2685,Cash,Purchase
+2025-02-28,Food,427,UPI,Travel Expense
+2025-01-18,Food,398,UPI,Travel Expense
+2025-05-21,Bills,954,Debit Card,Monthly Payment
+2025-02-20,Rent,16793,Credit Card,Travel Expense
+2025-02-05,Food,251,Cash,Purchase
+2025-05-14,Shopping,1838,Cash,Utility Bill
+2025-03-30,Rent,9310,UPI,Daily Expense
+2025-04-27,Rent,17502,Debit Card,Monthly Payment
+2025-05-01,Rent,13436,Debit Card,Daily Expense
+2025-05-11,Shopping,2951,Cash,Travel Expense
+2025-04-29,Travel,1234,Cash,Purchase
+2025-03-06,Travel,1883,UPI,Utility Bill
+2025-04-24,Food,731,Credit Card,Daily Expense
+2025-05-26,Shopping,1389,Credit Card,Utility Bill
+2025-01-11,Rent,15206,UPI,Travel Expense
+2025-01-22,Travel,1969,UPI,Utility Bill
+2025-01-01,Shopping,3421,Debit Card,Daily Expense
+2025-01-18,Bills,2146,Credit Card,Monthly Payment
+2025-05-13,Rent,9844,Credit Card,Daily Expense
+2025-02-19,Shopping,1280,Credit Card,Utility Bill
+2025-03-04,Travel,840,Cash,Utility Bill
+2025-03-15,Bills,3630,Credit Card,Purchase
+2025-02-14,Rent,16899,Credit Card,Daily Expense
+2025-04-01,Rent,18165,Credit Card,Daily Expense
+2025-03-29,Rent,8912,Cash,Daily Expense
+2025-04-28,Travel,2813,Debit Card,Monthly Payment
+2025-02-11,Rent,9023,Cash,Monthly Payment
+2025-06-20,Rent,19210,Debit Card,Daily Expense
+2025-03-21,Bills,867,Credit Card,Utility Bill
+2025-05-08,Rent,17542,UPI,Travel Expense
+2025-01-01,Travel,2451,UPI,Purchase
+2025-03-17,Food,657,Debit Card,Travel Expense
+2025-02-25,Rent,12830,Debit Card,Purchase
+2025-06-30,Rent,10730,Debit Card,Utility Bill
+2025-01-28,Rent,9658,UPI,Travel Expense
+2025-03-06,Travel,2228,Debit Card,Utility Bill
+2025-01-07,Bills,3326,Cash,Monthly Payment
+2025-03-13,Travel,889,Credit Card,Daily Expense
+2025-03-04,Food,279,Cash,Monthly Payment
+2025-02-01,Rent,19567,UPI,Travel Expense
+2025-04-18,Bills,3875,Debit Card,Utility Bill
+2025-05-22,Shopping,1905,UPI,Travel Expense
+2025-04-04,Food,599,Cash,Travel Expense
+2025-03-09,Shopping,4545,Debit Card,Travel Expense
+2025-01-22,Bills,2197,UPI,Monthly Payment
+2025-05-29,Food,334,Credit Card,Purchase
+2025-06-29,Rent,19103,Debit Card,Purchase
+2025-05-30,Travel,1554,UPI,Utility Bill
+2025-05-02,Bills,3961,Debit Card,Travel Expense
+2025-06-03,Food,423,Cash,Utility Bill
+2025-04-21,Rent,8259,Cash,Daily Expense
+2025-06-27,Shopping,3064,Credit Card,Monthly Payment
+2025-06-15,Food,677,Credit Card,Travel Expense
+2025-01-27,Shopping,4499,Credit Card,Travel Expense
+2025-04-30,Shopping,1132,Debit Card,Utility Bill
+2025-05-30,Bills,641,Cash,Travel Expense
+2025-03-10,Food,740,UPI,Utility Bill
+2025-05-23,Rent,16351,Debit Card,Purchase
+2025-03-24,Travel,942,UPI,Monthly Payment
+2025-02-01,Food,795,Cash,Utility Bill
+2025-04-02,Travel,1534,UPI,Utility Bill
+2025-02-28,Rent,8958,Cash,Purchase
+2025-02-16,Travel,2367,Cash,Monthly Payment
+2025-01-22,Bills,1486,Cash,Monthly Payment
+2025-03-18,Food,138,UPI,Monthly Payment
+2025-01-13,Shopping,4808,Credit Card,Utility Bill
+2025-01-01,Rent,19989,Debit Card,Monthly Payment
+2025-03-02,Shopping,562,Cash,Purchase
+2025-05-12,Food,688,UPI,Travel Expense
+2025-03-30,Food,422,Cash,Utility Bill
+2025-01-04,Rent,17335,UPI,Travel Expense
+2025-02-24,Rent,8662,Cash,Purchase
+2025-06-09,Bills,2580,Cash,Travel Expense
+2025-02-02,Travel,1116,Credit Card,Travel Expense
+2025-03-09,Food,583,UPI,Monthly Payment
+2025-05-08,Travel,1081,UPI,Utility Bill
+2025-01-08,Shopping,2658,UPI,Daily Expense
+2025-06-23,Rent,17470,Credit Card,Monthly Payment
+2025-02-27,Bills,1227,Cash,Utility Bill
+2025-04-29,Shopping,2995,Cash,Utility Bill
+2025-01-26,Rent,19143,Debit Card,Utility Bill
+2025-04-04,Rent,19438,UPI,Purchase
+2025-01-21,Food,493,Cash,Purchase
+2025-05-05,Food,144,Debit Card,Utility Bill
+2025-02-28,Travel,2331,Debit Card,Utility Bill
+2025-04-29,Food,769,Debit Card,Purchase
+2025-06-18,Food,757,Cash,Purchase
+2025-05-27,Shopping,3099,UPI,Travel Expense
+2025-05-12,Travel,886,Debit Card,Monthly Payment
+2025-02-19,Food,341,UPI,Daily Expense
+2025-06-04,Bills,3165,Cash,Monthly Payment
+2025-01-12,Food,625,Cash,Daily Expense
+2025-05-13,Shopping,4054,Credit Card,Travel Expense
+2025-06-29,Rent,8548,Debit Card,Daily Expense
+2025-06-06,Rent,14791,UPI,Travel Expense
+2025-05-26,Food,306,Credit Card,Daily Expense
+2025-03-22,Bills,1974,UPI,Monthly Payment
+2025-06-04,Shopping,4135,Debit Card,Monthly Payment
+2025-01-07,Shopping,2050,Cash,Travel Expense
+2025-03-22,Food,754,UPI,Monthly Payment
+2025-01-25,Bills,1186,UPI,Travel Expense
+2025-06-06,Travel,1559,Cash,Utility Bill
+2025-06-18,Rent,15710,Debit Card,Travel Expense
+2025-04-20,Bills,3113,Credit Card,Utility Bill
+2025-01-14,Travel,2781,Credit Card,Travel Expense
+2025-06-07,Food,795,Cash,Purchase
+2025-04-24,Travel,1280,Cash,Monthly Payment
+2025-01-06,Food,192,Cash,Daily Expense
+2025-02-23,Travel,584,Credit Card,Daily Expense
+2025-03-08,Bills,748,Cash,Daily Expense
+2025-06-25,Rent,19576,UPI,Purchase
+2025-01-24,Rent,17301,Cash,Travel Expense
+2025-06-11,Shopping,2965,Credit Card,Travel Expense
+2025-06-23,Rent,8921,UPI,Daily Expense
+2025-05-29,Rent,13967,Debit Card,Monthly Payment
+2025-01-24,Bills,3126,Debit Card,Daily Expense
+2025-03-22,Travel,800,UPI,Monthly Payment
+2025-06-02,Bills,3706,Cash,Daily Expense
+2025-01-21,Food,768,Debit Card,Purchase
+2025-01-11,Food,298,Debit Card,Utility Bill
+2025-01-27,Travel,2411,Credit Card,Monthly Payment
+2025-04-12,Shopping,3322,Debit Card,Daily Expense
+2025-02-06,Food,606,Credit Card,Monthly Payment
+2025-04-08,Rent,12431,Debit Card,Monthly Payment
+2025-03-26,Travel,1644,Cash,Daily Expense
+2025-01-18,Shopping,3339,Debit Card,Monthly Payment
+2025-04-20,Shopping,806,UPI,Purchase
+2025-06-29,Shopping,2810,Debit Card,Travel Expense
+2025-05-19,Rent,13995,Debit Card,Travel Expense
+2025-01-31,Shopping,1688,Debit Card,Monthly Payment
+2025-05-02,Rent,17504,UPI,Monthly Payment
+2025-02-24,Travel,1788,UPI,Monthly Payment
+2025-05-29,Shopping,807,Credit Card,Travel Expense
+2025-03-31,Food,222,Cash,Purchase
+2025-05-22,Bills,1448,UPI,Daily Expense
+2025-06-04,Travel,2464,Cash,Purchase
+2025-05-24,Shopping,2315,UPI,Purchase
+2025-01-24,Food,659,UPI,Utility Bill
+2025-04-11,Food,480,Debit Card,Travel Expense
+2025-06-04,Travel,2112,Credit Card,Monthly Payment
+2025-03-18,Shopping,998,Credit Card,Daily Expense
+2025-03-01,Travel,567,Debit Card,Monthly Payment
+2025-04-07,Shopping,2990,Cash,Travel Expense
+2025-01-01,Bills,1574,Debit Card,Utility Bill
+2025-02-05,Bills,3833,Cash,Daily Expense
+2025-02-22,Food,236,UPI,Daily Expense
+2025-05-23,Bills,1150,Debit Card,Daily Expense
+2025-05-26,Bills,1255,Debit Card,Travel Expense
+2025-01-09,Travel,2112,Credit Card,Purchase
+2025-01-20,Shopping,4061,Cash,Utility Bill
+2025-03-04,Bills,1580,Debit Card,Purchase
+2025-02-26,Bills,1267,Cash,Purchase
+2025-03-22,Food,158,Cash,Purchase
+2025-05-24,Travel,837,Credit Card,Purchase
+2025-06-25,Rent,8318,Debit Card,Monthly Payment
+2025-05-25,Travel,535,Debit Card,Daily Expense
+2025-04-04,Rent,19123,Cash,Monthly Payment
+2025-03-26,Rent,11560,UPI,Monthly Payment
+2025-05-29,Rent,19142,UPI,Daily Expense
+2025-06-22,Shopping,2228,UPI,Monthly Payment
+2025-03-06,Food,442,Debit Card,Monthly Payment
+2025-02-26,Food,101,UPI,Utility Bill
+2025-01-03,Bills,1364,Debit Card,Travel Expense
+2025-03-05,Travel,2195,Cash,Purchase
+2025-05-15,Rent,14197,UPI,Purchase
+2025-03-01,Bills,2637,Cash,Monthly Payment
+2025-06-15,Food,298,Credit Card,Daily Expense
+2025-02-18,Food,665,Cash,Utility Bill
+2025-02-15,Bills,2416,UPI,Monthly Payment
+2025-03-03,Bills,1275,Debit Card,Purchase
+2025-02-19,Travel,2059,UPI,Utility Bill
+2025-03-04,Bills,920,Credit Card,Purchase
+2025-03-21,Shopping,4641,Debit Card,Utility Bill
+2025-03-25,Bills,873,Debit Card,Purchase
+2025-06-18,Rent,18040,UPI,Travel Expense
+2025-01-08,Travel,1055,Credit Card,Monthly Payment
+2025-03-10,Bills,1041,Debit Card,Monthly Payment
+2025-05-12,Food,253,Cash,Travel Expense
+2025-06-14,Rent,17227,Debit Card,Daily Expense
+2025-01-18,Travel,1478,Cash,Utility Bill
+2025-06-14,Shopping,4470,Cash,Monthly Payment
+2025-05-23,Food,242,Credit Card,Monthly Payment
+2025-02-11,Bills,994,Debit Card,Purchase
+2025-06-01,Shopping,4538,Cash,Daily Expense
+2025-06-23,Rent,13375,Debit Card,Travel Expense
+2025-05-10,Shopping,3929,UPI,Travel Expense
+2025-06-17,Bills,3680,UPI,Utility Bill
+2025-04-02,Travel,1351,UPI,Monthly Payment
+2025-03-31,Food,698,Cash,Purchase
+2025-04-05,Bills,2301,UPI,Purchase
+2025-02-10,Food,424,Credit Card,Daily Expense
+2025-05-10,Travel,1837,UPI,Travel Expense
+2025-03-29,Rent,11446,UPI,Travel Expense
+2025-04-29,Food,501,Credit Card,Daily Expense
+2025-05-03,Shopping,4471,UPI,Monthly Payment
+2025-04-20,Shopping,1060,Debit Card,Monthly Payment
+2025-04-01,Bills,506,UPI,Purchase
+2025-05-12,Travel,2143,Cash,Daily Expense
+2025-04-30,Rent,14285,Cash,Purchase
+2025-06-04,Food,788,UPI,Travel Expense
+2025-04-23,Food,191,Credit Card,Utility Bill
+2025-06-29,Rent,10633,Credit Card,Daily Expense
+2025-04-12,Travel,1139,Credit Card,Purchase
+2025-05-18,Bills,3146,UPI,Monthly Payment
+2025-06-02,Shopping,1378,Cash,Purchase
+2025-04-16,Travel,877,Cash,Purchase
+2025-02-03,Shopping,4961,UPI,Purchase
+2025-03-17,Travel,1132,UPI,Utility Bill
+2025-03-14,Shopping,1821,UPI,Utility Bill
+2025-06-24,Shopping,4816,Debit Card,Monthly Payment
+2025-04-23,Travel,1036,Debit Card,Purchase
+2025-05-09,Bills,2735,Cash,Monthly Payment
+2025-01-10,Bills,992,Credit Card,Utility Bill
+2025-03-30,Rent,18670,UPI,Monthly Payment
+2025-02-13,Food,595,Credit Card,Monthly Payment
+2025-04-25,Shopping,4149,Credit Card,Travel Expense
+2025-03-01,Food,688,Debit Card,Monthly Payment
+2025-03-30,Food,709,Cash,Travel Expense
+2025-02-18,Travel,706,Cash,Daily Expense
+2025-05-05,Bills,759,UPI,Monthly Payment
+2025-03-14,Rent,9034,Cash,Daily Expense
+2025-04-04,Travel,1804,Debit Card,Utility Bill
+2025-01-13,Bills,2546,Cash,Utility Bill
+2025-01-25,Food,430,Debit Card,Daily Expense
+2025-01-02,Shopping,3803,Cash,Monthly Payment
+2025-03-02,Food,403,UPI,Purchase
+2025-05-01,Travel,2365,Credit Card,Purchase
+2025-06-01,Bills,882,Credit Card,Monthly Payment
+2025-03-03,Rent,16880,Credit Card,Monthly Payment
+2025-05-08,Bills,1666,Cash,Utility Bill
+2025-02-10,Travel,2273,Credit Card,Travel Expense
+2025-03-30,Travel,539,Credit Card,Utility Bill
+2025-05-21,Travel,1485,Credit Card,Purchase
+2025-03-06,Food,598,UPI,Purchase
+2025-05-08,Rent,18393,UPI,Purchase
+2025-01-21,Shopping,3009,Credit Card,Purchase
+2025-05-28,Rent,16557,Credit Card,Daily Expense
+2025-02-09,Travel,892,Credit Card,Daily Expense
+2025-05-28,Food,231,UPI,Monthly Payment
+2025-02-23,Bills,1071,Cash,Utility Bill
+2025-03-13,Shopping,4717,Debit Card,Monthly Payment
+2025-03-12,Shopping,787,UPI,Daily Expense
+2025-02-16,Food,134,UPI,Monthly Payment
+2025-04-22,Bills,2917,Debit Card,Utility Bill
+2025-05-17,Travel,1997,Credit Card,Utility Bill
+2025-04-30,Food,671,Cash,Daily Expense
+2025-04-05,Travel,1140,Credit Card,Monthly Payment
+2025-01-26,Bills,3387,Credit Card,Daily Expense
+2025-01-22,Food,256,Debit Card,Purchase
+2025-03-19,Travel,2802,Cash,Monthly Payment
+2025-04-24,Bills,3487,Credit Card,Daily Expense
+2025-02-11,Food,428,Cash,Monthly Payment
+2025-03-19,Shopping,1778,Credit Card,Utility Bill
+2025-01-07,Shopping,3399,Debit Card,Travel Expense
+2025-03-29,Rent,9738,Credit Card,Utility Bill
+2025-05-28,Travel,833,Debit Card,Daily Expense
+2025-05-16,Travel,798,Debit Card,Utility Bill
+2025-05-16,Travel,2134,Cash,Daily Expense
+2025-02-28,Rent,17318,Cash,Travel Expense
+2025-05-30,Bills,307,UPI,Travel Expense
+2025-02-05,Travel,579,Credit Card,Utility Bill
+2025-01-11,Bills,2920,Debit Card,Monthly Payment
+2025-02-05,Shopping,2115,Debit Card,Purchase
+2025-05-09,Rent,16860,Debit Card,Monthly Payment
+2025-01-19,Bills,1604,Credit Card,Purchase
+2025-03-20,Bills,3245,Debit Card,Utility Bill
+2025-01-26,Travel,2685,Credit Card,Daily Expense
+2025-02-09,Shopping,3276,Debit Card,Purchase
+2025-04-01,Shopping,4154,Cash,Daily Expense
+2025-02-24,Bills,2544,Debit Card,Purchase
+2025-01-13,Rent,18515,UPI,Purchase
+2025-05-08,Travel,1649,Cash,Purchase
+2025-06-16,Rent,12390,Debit Card,Daily Expense
+2025-01-09,Travel,2296,Credit Card,Monthly Payment
+2025-02-22,Shopping,2906,Cash,Monthly Payment
+2025-06-05,Rent,16373,UPI,Daily Expense
+2025-06-13,Food,457,UPI,Utility Bill
+2025-04-04,Food,544,UPI,Utility Bill
+2025-03-20,Travel,2072,UPI,Purchase
+2025-01-29,Rent,13510,Debit Card,Monthly Payment
+2025-05-30,Food,499,UPI,Daily Expense
+2025-02-15,Bills,1625,Credit Card,Daily Expense
+2025-06-29,Bills,1634,Credit Card,Purchase
+2025-01-13,Shopping,4739,Credit Card,Monthly Payment
+2025-02-27,Travel,2558,Credit Card,Daily Expense
+2025-03-04,Bills,2066,Credit Card,Monthly Payment
+2025-05-14,Food,422,Cash,Daily Expense
+2025-02-16,Shopping,2423,Debit Card,Daily Expense
+2025-04-22,Travel,2443,Credit Card,Travel Expense
+2025-01-07,Rent,12736,UPI,Monthly Payment
+2025-05-14,Travel,1752,Debit Card,Daily Expense
+2025-02-26,Travel,2480,UPI,Monthly Payment
+2025-06-12,Food,417,Credit Card,Daily Expense
+2025-01-04,Travel,1821,Debit Card,Monthly Payment
+2025-01-03,Food,346,UPI,Monthly Payment
+2025-06-10,Rent,10861,Credit Card,Purchase
+2025-02-16,Food,582,Debit Card,Purchase
+2025-04-01,Rent,10079,Debit Card,Travel Expense
+2025-01-23,Food,474,Credit Card,Monthly Payment
+2025-04-09,Travel,2161,UPI,Purchase
+2025-01-14,Rent,18024,Cash,Travel Expense
+2025-03-09,Bills,3941,Cash,Travel Expense
+2025-01-23,Food,363,Debit Card,Utility Bill
+2025-05-18,Travel,1659,Cash,Utility Bill
+2025-03-07,Shopping,997,UPI,Purchase
+2025-02-21,Shopping,3051,Cash,Monthly Payment
+2025-06-13,Travel,2093,UPI,Monthly Payment
+2025-06-16,Bills,1342,Credit Card,Travel Expense
+2025-01-16,Bills,3076,UPI,Utility Bill
+2025-04-11,Food,304,Cash,Monthly Payment
+2025-03-28,Food,748,Cash,Daily Expense
+2025-04-01,Bills,859,Credit Card,Monthly Payment
+2025-01-17,Shopping,2634,Credit Card,Monthly Payment
+2025-06-14,Travel,1891,UPI,Travel Expense
+2025-03-23,Rent,9612,UPI,Travel Expense
+2025-04-13,Rent,18394,Cash,Utility Bill
+2025-06-04,Food,622,Debit Card,Daily Expense
+2025-02-17,Food,556,Debit Card,Travel Expense
+2025-04-07,Food,776,Debit Card,Utility Bill
+2025-05-13,Rent,12269,UPI,Purchase
+2025-01-20,Food,659,UPI,Monthly Payment
+2025-01-20,Food,693,Credit Card,Travel Expense
+2025-02-22,Shopping,1474,Credit Card,Daily Expense
+2025-02-22,Rent,16747,Cash,Travel Expense
+2025-06-13,Travel,1445,Credit Card,Daily Expense
+2025-04-21,Rent,10781,Credit Card,Purchase
+2025-06-07,Food,625,Debit Card,Daily Expense
+2025-04-14,Shopping,2831,UPI,Travel Expense
+2025-02-08,Shopping,4948,Credit Card,Purchase
+2025-02-14,Rent,8444,Credit Card,Utility Bill
+2025-06-12,Food,246,Debit Card,Daily Expense
+2025-04-01,Travel,1175,Debit Card,Utility Bill
+2025-06-14,Shopping,3440,Debit Card,Purchase
+2025-04-27,Food,226,Cash,Utility Bill
+2025-05-10,Food,726,Cash,Daily Expense
+2025-05-28,Travel,2205,UPI,Purchase
+2025-05-28,Food,625,Credit Card,Purchase
+2025-01-28,Shopping,598,Credit Card,Utility Bill
+2025-06-12,Bills,2058,Credit Card,Monthly Payment
+2025-05-31,Shopping,1697,Cash,Daily Expense
+2025-04-30,Travel,1598,Credit Card,Purchase
+2025-01-09,Food,482,Debit Card,Daily Expense
+2025-01-05,Bills,3697,UPI,Purchase
+2025-05-14,Bills,3290,Debit Card,Daily Expense
+2025-02-14,Travel,1623,Cash,Purchase
+2025-05-19,Travel,971,Credit Card,Utility Bill
+2025-05-07,Bills,2658,UPI,Travel Expense
+2025-03-29,Travel,604,Credit Card,Daily Expense
+2025-06-03,Bills,1151,Credit Card,Travel Expense
+2025-01-02,Shopping,827,Debit Card,Daily Expense
+2025-05-02,Bills,1297,UPI,Utility Bill
+2025-04-24,Food,214,Debit Card,Daily Expense
+2025-03-20,Shopping,1463,Cash,Travel Expense
+2025-05-29,Travel,2752,Cash,Travel Expense
+2025-01-31,Travel,1517,UPI,Purchase
+2025-04-26,Shopping,1260,Debit Card,Monthly Payment
+2025-03-26,Shopping,1974,Debit Card,Utility Bill
+2025-02-01,Bills,1289,Cash,Travel Expense
+2025-05-07,Travel,2180,Debit Card,Purchase
+2025-01-17,Bills,1380,Credit Card,Utility Bill
+2025-03-09,Shopping,3786,UPI,Purchase
+2025-03-04,Shopping,1619,UPI,Daily Expense
+2025-05-14,Food,186,Debit Card,Purchase
+2025-06-03,Food,296,UPI,Monthly Payment
+2025-02-21,Bills,1257,UPI,Utility Bill
+2025-01-31,Food,324,UPI,Daily Expense
+2025-03-15,Rent,17333,Credit Card,Utility Bill
+2025-06-07,Bills,3589,Debit Card,Monthly Payment
+2025-04-15,Rent,8740,Credit Card,Daily Expense
+2025-02-23,Travel,1313,Debit Card,Travel Expense
+2025-05-12,Food,449,UPI,Purchase
+2025-03-13,Bills,2698,UPI,Purchase
+2025-06-10,Bills,3156,Cash,Purchase
+2025-02-11,Rent,11966,UPI,Utility Bill
+2025-03-09,Food,610,Cash,Travel Expense
+2025-01-04,Rent,10701,Cash,Purchase
+2025-06-06,Food,534,UPI,Utility Bill
+2025-02-03,Rent,11993,Credit Card,Purchase
+2025-03-07,Bills,1288,Credit Card,Monthly Payment
+2025-04-06,Food,781,UPI,Utility Bill
+2025-01-15,Travel,624,Cash,Utility Bill
+2025-02-23,Food,600,UPI,Utility Bill
+2025-04-13,Travel,2946,Credit Card,Monthly Payment
+2025-06-14,Shopping,2090,Cash,Daily Expense
+2025-05-14,Bills,3221,Cash,Purchase
+2025-06-06,Travel,2035,Cash,Daily Expense
+2025-03-31,Bills,2920,Credit Card,Purchase
+2025-04-01,Rent,19022,Cash,Purchase
+2025-04-11,Rent,10537,Cash,Utility Bill
+2025-02-18,Bills,1716,Credit Card,Travel Expense
+2025-03-16,Bills,3427,Credit Card,Utility Bill
+2025-02-06,Rent,13741,Cash,Travel Expense
+2025-03-08,Rent,9443,Cash,Monthly Payment
+2025-05-03,Shopping,2720,Credit Card,Travel Expense
+2025-05-16,Food,438,Credit Card,Utility Bill
+2025-05-01,Shopping,1647,Debit Card,Daily Expense
+2025-03-27,Rent,12598,UPI,Utility Bill
+2025-01-18,Shopping,3504,Debit Card,Daily Expense
+2025-01-30,Rent,18860,Debit Card,Utility Bill
+2025-02-09,Food,242,Debit Card,Purchase
+2025-03-24,Rent,17063,Cash,Purchase
+2025-04-24,Rent,19825,Debit Card,Utility Bill
+2025-05-31,Bills,490,Cash,Daily Expense
+2025-03-28,Bills,3031,Credit Card,Monthly Payment
+2025-01-28,Rent,15254,Debit Card,Daily Expense
+2025-01-04,Shopping,1932,UPI,Purchase
+2025-01-31,Food,662,Credit Card,Utility Bill
+2025-03-15,Food,111,Cash,Purchase
+2025-02-28,Food,239,Debit Card,Utility Bill
+2025-05-02,Rent,12373,UPI,Travel Expense
+2025-05-09,Food,265,Credit Card,Purchase
+2025-04-24,Food,750,Cash,Daily Expense
+2025-06-04,Shopping,2841,Debit Card,Utility Bill
+2025-05-05,Bills,1668,Credit Card,Utility Bill
+2025-05-03,Bills,3446,Debit Card,Travel Expense
+2025-04-30,Food,363,UPI,Utility Bill
+2025-05-03,Travel,1974,Cash,Travel Expense
+2025-01-13,Travel,2009,Credit Card,Travel Expense
+2025-02-15,Travel,1190,Credit Card,Travel Expense
+2025-06-10,Food,777,Credit Card,Travel Expense
+2025-03-22,Rent,12277,Credit Card,Daily Expense
+2025-01-08,Travel,2900,Debit Card,Purchase
+2025-01-04,Shopping,3761,Debit Card,Monthly Payment
+2025-06-02,Food,730,Credit Card,Purchase
+2025-01-22,Bills,646,Cash,Travel Expense
+2025-06-18,Shopping,4486,Debit Card,Travel Expense
+2025-04-28,Travel,1374,UPI,Travel Expense
+2025-01-15,Bills,330,Cash,Utility Bill
+2025-05-12,Rent,10109,Cash,Daily Expense
+2025-02-01,Travel,2114,UPI,Daily Expense
+2025-01-22,Rent,12524,Cash,Travel Expense
+2025-04-01,Bills,3807,Debit Card,Monthly Payment
+2025-02-13,Bills,1012,Cash,Daily Expense
+2025-03-30,Bills,3548,Debit Card,Purchase
+2025-05-28,Bills,636,UPI,Purchase
+2025-04-23,Bills,1253,Debit Card,Purchase
+2025-04-11,Food,512,Debit Card,Travel Expense
+2025-01-03,Rent,8955,Debit Card,Travel Expense
+2025-03-09,Bills,1840,UPI,Utility Bill
+2025-02-18,Rent,11092,UPI,Purchase
+2025-03-31,Food,463,Credit Card,Utility Bill
+2025-02-18,Shopping,4255,UPI,Monthly Payment
+2025-02-24,Bills,1426,Cash,Purchase
+2025-04-02,Travel,2916,Cash,Monthly Payment
+2025-05-10,Food,236,Debit Card,Utility Bill
+2025-04-23,Bills,1400,Cash,Utility Bill
+2025-01-23,Rent,9700,Credit Card,Travel Expense
+2025-03-09,Shopping,2627,Cash,Purchase
+2025-02-03,Rent,14756,Credit Card,Purchase
+2025-01-04,Shopping,1008,UPI,Purchase
+2025-02-26,Travel,2141,Credit Card,Monthly Payment
+2025-02-22,Food,323,Credit Card,Utility Bill
+2025-05-07,Shopping,743,Credit Card,Purchase
+2025-04-19,Rent,8922,UPI,Daily Expense
+2025-01-26,Shopping,3038,Cash,Daily Expense
+2025-03-29,Shopping,1800,UPI,Utility Bill
+2025-02-13,Food,543,Cash,Travel Expense
+2025-01-08,Travel,1072,UPI,Monthly Payment
+2025-01-21,Travel,1017,Credit Card,Monthly Payment
+2025-04-27,Food,701,Credit Card,Daily Expense
+2025-05-22,Bills,1244,Debit Card,Travel Expense
+2025-05-23,Food,677,Debit Card,Daily Expense
+2025-03-18,Travel,2146,Credit Card,Monthly Payment
+2025-06-12,Bills,1387,Credit Card,Purchase
+2025-03-11,Rent,18428,Cash,Purchase
+2025-01-02,Travel,1057,Cash,Utility Bill
+2025-05-11,Rent,18498,UPI,Purchase
+2025-01-12,Shopping,4781,Debit Card,Travel Expense
+2025-03-17,Food,141,Credit Card,Monthly Payment
+2025-04-29,Shopping,3540,UPI,Monthly Payment
+2025-05-17,Food,748,Debit Card,Daily Expense
+2025-06-23,Travel,985,Credit Card,Purchase
+2025-04-29,Rent,10833,Cash,Monthly Payment
+2025-06-12,Rent,8654,Debit Card,Monthly Payment
+2025-02-04,Travel,2639,Cash,Daily Expense
+2025-03-13,Shopping,3743,Cash,Daily Expense
+2025-04-04,Travel,1398,UPI,Utility Bill
+2025-04-10,Bills,1539,Debit Card,Purchase
+2025-01-20,Bills,2891,Debit Card,Monthly Payment
+2025-02-06,Food,174,UPI,Daily Expense
+2025-03-24,Food,679,Debit Card,Utility Bill
+2025-06-19,Rent,9177,Credit Card,Purchase
+2025-01-05,Shopping,1953,Credit Card,Monthly Payment
+2025-06-23,Food,360,Debit Card,Travel Expense
+2025-03-19,Bills,3868,Cash,Utility Bill
+2025-02-18,Travel,995,Debit Card,Utility Bill
+2025-04-29,Shopping,4758,Credit Card,Monthly Payment
+2025-02-13,Travel,1134,Cash,Monthly Payment
+2025-03-06,Food,285,UPI,Monthly Payment
+2025-03-28,Food,304,Cash,Purchase
+2025-03-12,Rent,17585,UPI,Daily Expense
+2025-03-03,Bills,2060,Credit Card,Travel Expense
+2025-04-27,Food,319,UPI,Travel Expense
+2025-03-22,Rent,18759,Cash,Daily Expense
+2025-05-25,Bills,698,Debit Card,Utility Bill
+2025-05-04,Rent,10027,Debit Card,Monthly Payment
+2025-05-16,Bills,2764,Debit Card,Daily Expense
+2025-03-02,Bills,1017,Credit Card,Daily Expense
+2025-01-18,Bills,2394,Cash,Daily Expense
+2025-06-10,Shopping,4435,Cash,Monthly Payment
+2025-05-16,Shopping,2690,Debit Card,Travel Expense
+2025-05-17,Travel,2630,UPI,Utility Bill
+2025-06-23,Bills,1864,Debit Card,Utility Bill
+2025-05-01,Shopping,3297,Cash,Daily Expense
+2025-06-05,Shopping,3537,Debit Card,Travel Expense
+2025-03-04,Shopping,1893,Credit Card,Utility Bill
+2025-06-29,Rent,11351,Cash,Purchase
+2025-03-17,Travel,1879,UPI,Travel Expense
+2025-04-16,Bills,547,Debit Card,Utility Bill
+2025-01-12,Rent,8000,Debit Card,Monthly Payment
+2025-06-05,Rent,13299,Debit Card,Utility Bill
+2025-01-24,Bills,1193,Cash,Monthly Payment
+2025-02-25,Rent,17651,Debit Card,Travel Expense
+2025-06-12,Shopping,2374,Credit Card,Purchase
+2025-03-18,Shopping,3667,UPI,Monthly Payment
+2025-05-24,Food,445,UPI,Utility Bill
+2025-03-06,Travel,2829,Cash,Travel Expense
+2025-06-08,Travel,2925,Credit Card,Utility Bill
+2025-02-16,Food,133,Credit Card,Purchase
+2025-01-29,Shopping,2829,Cash,Monthly Payment
+2025-06-29,Rent,18382,Cash,Purchase
+2025-02-28,Shopping,3642,Credit Card,Purchase
+2025-01-22,Travel,2189,UPI,Daily Expense
+2025-05-09,Shopping,4615,UPI,Travel Expense
+2025-02-09,Bills,2430,Credit Card,Purchase
+2025-02-23,Rent,8449,Debit Card,Purchase
+2025-03-16,Food,158,UPI,Daily Expense
+2025-04-03,Shopping,3783,Debit Card,Purchase
+2025-02-05,Bills,1002,UPI,Purchase
+2025-01-25,Bills,2767,Credit Card,Monthly Payment
+2025-04-13,Bills,3591,Cash,Purchase
+2025-06-27,Bills,3496,Credit Card,Daily Expense
+2025-01-10,Travel,1971,UPI,Travel Expense
+2025-05-11,Travel,1645,Credit Card,Travel Expense
+2025-02-16,Shopping,4706,Cash,Travel Expense
+2025-06-27,Bills,2188,Credit Card,Travel Expense
+2025-04-20,Shopping,2458,Cash,Purchase
+2025-05-31,Food,711,Debit Card,Purchase
+2025-02-24,Bills,1558,Credit Card,Monthly Payment
+2025-04-30,Shopping,4557,Credit Card,Monthly Payment
+2025-01-18,Food,203,Debit Card,Daily Expense
+2025-01-27,Rent,10388,Debit Card,Travel Expense
+2025-06-06,Travel,700,Debit Card,Purchase
+2025-04-01,Shopping,2173,UPI,Travel Expense
+2025-02-04,Rent,14206,UPI,Utility Bill
+2025-02-08,Bills,3194,UPI,Utility Bill
+2025-05-06,Shopping,4417,Debit Card,Monthly Payment
+2025-04-05,Travel,1809,Cash,Utility Bill
+2025-06-17,Travel,794,Cash,Purchase
+2025-06-30,Rent,8135,Credit Card,Daily Expense
+2025-04-14,Travel,2279,Debit Card,Travel Expense
+2025-01-21,Bills,1122,Credit Card,Utility Bill
+2025-03-16,Travel,1412,Cash,Daily Expense
+2025-01-16,Rent,12894,Credit Card,Travel Expense
+2025-03-18,Food,236,UPI,Purchase
+2025-01-29,Travel,1582,Debit Card,Travel Expense
+2025-03-30,Shopping,3271,Debit Card,Purchase
+2025-03-03,Food,175,Cash,Monthly Payment
+2025-03-06,Shopping,1316,Cash,Daily Expense
+2025-01-31,Bills,1268,Credit Card,Utility Bill
+2025-05-24,Bills,2631,Cash,Utility Bill
+2025-04-20,Food,513,Credit Card,Monthly Payment
+2025-04-30,Rent,14644,Debit Card,Utility Bill
+2025-02-24,Travel,2448,Debit Card,Travel Expense
+2025-05-19,Rent,11968,Debit Card,Monthly Payment
+2025-04-30,Rent,12455,Cash,Purchase
+2025-06-09,Bills,3196,UPI,Purchase
+2025-04-04,Food,745,Cash,Travel Expense
+2025-05-14,Food,347,UPI,Travel Expense
+2025-05-25,Bills,3739,Debit Card,Daily Expense
+2025-06-02,Food,532,Cash,Daily Expense
+2025-06-08,Travel,800,Cash,Purchase
+2025-06-25,Food,287,Cash,Purchase
+2025-06-25,Bills,1693,Debit Card,Daily Expense
+2025-05-20,Food,185,Credit Card,Utility Bill
+2025-02-23,Rent,19543,UPI,Travel Expense
+2025-04-26,Bills,3851,Cash,Purchase
+2025-06-04,Travel,2109,Cash,Purchase
+2025-04-11,Travel,2582,Debit Card,Monthly Payment
+2025-05-16,Travel,680,Debit Card,Daily Expense
+2025-01-12,Food,218,Cash,Monthly Payment
+2025-01-10,Rent,17855,Debit Card,Monthly Payment
+2025-01-06,Rent,15513,Credit Card,Purchase
+2025-01-26,Rent,18006,Cash,Daily Expense
+2025-06-21,Rent,9698,Credit Card,Utility Bill
+2025-02-09,Food,248,Cash,Travel Expense
+2025-04-10,Travel,1678,UPI,Monthly Payment
+2025-05-05,Bills,723,Debit Card,Travel Expense
+2025-04-16,Food,171,UPI,Daily Expense
+2025-04-07,Food,110,Debit Card,Daily Expense
+2025-06-25,Shopping,2143,Credit Card,Travel Expense
+2025-05-15,Food,565,Credit Card,Utility Bill
+2025-01-18,Food,760,UPI,Monthly Payment
+2025-03-30,Travel,2200,Cash,Utility Bill
+2025-05-07,Bills,3501,UPI,Purchase
+2025-01-05,Food,427,Cash,Utility Bill
+2025-03-24,Travel,1598,UPI,Daily Expense
+2025-06-19,Shopping,4532,Debit Card,Daily Expense
+2025-05-07,Travel,1115,UPI,Travel Expense
+2025-03-17,Travel,840,UPI,Monthly Payment
+2025-01-04,Rent,19533,Cash,Travel Expense
+2025-06-29,Travel,2667,Debit Card,Utility Bill
+2025-03-10,Travel,2583,UPI,Purchase
+2025-01-17,Shopping,3017,UPI,Utility Bill
+2025-01-23,Food,126,Debit Card,Monthly Payment
+2025-02-16,Shopping,2684,Cash,Travel Expense
+2025-03-11,Bills,3729,UPI,Monthly Payment
+2025-05-28,Bills,568,UPI,Monthly Payment
+2025-01-24,Travel,1380,Credit Card,Purchase
+2025-01-15,Shopping,4269,Cash,Travel Expense
+2025-06-23,Rent,15179,Credit Card,Purchase
+2025-04-18,Travel,2632,Debit Card,Utility Bill
+2025-04-05,Bills,3843,Cash,Utility Bill
+2025-06-07,Food,630,Debit Card,Purchase
+2025-02-23,Shopping,1687,UPI,Travel Expense
+2025-06-28,Shopping,2822,UPI,Travel Expense
+2025-02-10,Travel,1046,Credit Card,Monthly Payment
+2025-04-04,Bills,3668,Cash,Daily Expense
+2025-04-11,Rent,19460,Credit Card,Travel Expense
+2025-02-02,Rent,16179,Cash,Travel Expense
+2025-03-12,Food,696,Cash,Purchase
+2025-02-09,Food,686,Cash,Monthly Payment
+2025-05-10,Rent,17868,UPI,Purchase
+2025-03-26,Bills,2376,UPI,Monthly Payment
+2025-06-07,Shopping,1744,Credit Card,Travel Expense
+2025-04-20,Food,124,Cash,Purchase
+2025-01-12,Travel,1888,Cash,Utility Bill
+2025-04-25,Shopping,2076,Debit Card,Daily Expense
+2025-04-18,Shopping,4733,Debit Card,Utility Bill
+2025-01-30,Rent,8589,Credit Card,Travel Expense
+2025-05-25,Rent,18321,Debit Card,Daily Expense
+2025-03-12,Rent,18711,UPI,Utility Bill
+2025-06-05,Food,297,UPI,Purchase
+2025-06-14,Food,225,Debit Card,Purchase
+2025-03-19,Bills,2828,Cash,Utility Bill
+2025-05-29,Shopping,4486,Cash,Daily Expense
+2025-02-25,Food,149,Credit Card,Daily Expense
+2025-05-11,Travel,1407,Credit Card,Purchase
+2025-06-12,Shopping,4276,UPI,Daily Expense
+2025-06-13,Travel,1401,UPI,Purchase
+2025-04-10,Shopping,2565,Debit Card,Purchase
+2025-01-15,Food,416,Cash,Monthly Payment
+2025-02-05,Rent,9783,Credit Card,Daily Expense
+2025-04-02,Bills,1412,Debit Card,Travel Expense
+2025-04-05,Travel,1579,UPI,Travel Expense
+2025-01-04,Food,511,UPI,Travel Expense
+2025-06-03,Food,507,UPI,Monthly Payment
+2025-05-16,Travel,2710,Cash,Travel Expense
+2025-01-21,Food,526,Credit Card,Travel Expense
+2025-04-23,Rent,17779,Cash,Monthly Payment
+2025-03-23,Shopping,4256,Debit Card,Purchase
+2025-03-01,Bills,1921,Debit Card,Monthly Payment
+2025-04-21,Shopping,3627,Cash,Utility Bill
+2025-01-20,Travel,2573,Debit Card,Monthly Payment
+2025-05-13,Rent,11982,UPI,Monthly Payment
+2025-05-22,Shopping,2648,Debit Card,Monthly Payment
+2025-05-03,Food,295,Credit Card,Daily Expense
+2025-02-04,Shopping,4298,UPI,Utility Bill
+2025-04-08,Shopping,2854,UPI,Travel Expense
+2025-06-23,Shopping,1635,Debit Card,Daily Expense
+2025-05-13,Shopping,1862,Credit Card,Purchase
+2025-02-21,Travel,1694,Cash,Utility Bill
+2025-01-16,Shopping,4680,Cash,Utility Bill
+2025-03-10,Travel,525,UPI,Daily Expense
+2025-01-11,Rent,15624,Debit Card,Travel Expense
+2025-03-10,Bills,3955,UPI,Daily Expense
+2025-05-13,Food,575,Debit Card,Daily Expense
+2025-05-16,Shopping,3465,UPI,Monthly Payment
+2025-05-14,Shopping,1186,Credit Card,Purchase

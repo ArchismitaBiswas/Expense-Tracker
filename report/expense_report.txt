@@ -1,0 +1,23 @@
+EXPENSE TRACKER REPORT
+======================
+
+Total Expenses: Rs. 6275604
+
+Highest Spending Category: Rent
+
+CATEGORY-WISE EXPENSES
+
+Rent: Rs. 4147649
+Shopping: Rs. 848259
+Bills: Rs. 607665
+Travel: Rs. 529075
+Food: Rs. 142956
+
+MONTHLY EXPENSES
+
+Month 1: Rs. 1204429
+Month 2: Rs. 1014772
+Month 3: Rs. 1081338
+Month 4: Rs. 977924
+Month 5: Rs. 1030004
+Month 6: Rs. 967137
